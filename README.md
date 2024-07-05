@@ -1,5 +1,5 @@
 # Skills_and_Technologies
-My skills and technologies:
+_**My Skills and Technologies**_:
 * Programming Languages: Python
 * Databases: MySQL, MongoDB
 * Version Control: Git, GitHub
